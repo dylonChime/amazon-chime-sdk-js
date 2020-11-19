@@ -22,6 +22,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.19.0] - 2020-09-29
 ### Added
 - Add MeetingReadinessCheckerConfiguration to allow custom configuration for meeting readiness checker
+- Add audioSessionId to join frame to always drop when reconnecting
 
 ### Changed
 - Update Travis config to improve PR build speed
